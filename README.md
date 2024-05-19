@@ -1,4 +1,4 @@
-This repository contains the R code and analysis report for  which involves analyzing a policing dataset from Colchester in 2023 and a climate dataset from a weather station near Colchester in 2023.
+This repository contains the R code and analysis report   which involves analyzing a policing dataset from Colchester in 2023 and a climate dataset from a weather station near Colchester in 2023.
 
 Project Overview:
 
